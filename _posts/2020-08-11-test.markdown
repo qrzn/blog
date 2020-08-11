@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome to my blog"
+date:   2020-02-16 10:34:18 +0100
+categories: jekyll update
+---
+Now I'll start this blog to practice my developing skills and share my experiences in the multiple fields I dabble in.
